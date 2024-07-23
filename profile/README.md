@@ -1,13 +1,8 @@
-# The Back Room
+<h1 align="center">The Back Room</h1>
 
-Open-Source Development and Customization
+<p align="center">Open-Source Development and Customization</p>
 
-![Logo][LOGO]
+<img src="https://github.com/user-attachments/assets/06c31b0b-d483-4479-bb0d-57fab34f23e8" align="center">
 
-
-## Team
-
-- [Darkwater409][DARKWATER409]
-
-[DARKWATER409]: https://github.com/Darkwater409
-[LOGO]: https://github.com/user-attachments/assets/06c31b0b-d483-4479-bb0d-57fab34f23e8
+<h2 align="center">Team</h2>
+<p align="center"><a href="https://github.com/Darkwater409">Darkwater409</a></p> 
